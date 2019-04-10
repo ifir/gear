@@ -1,0 +1,21 @@
+{
+  "engines": {
+    "node": ">=8.9"
+  },
+  "bin": {
+    "gear": "bin/gear.js"
+  },
+  "name": "@gear/cli",
+  "repository": "git@github.com:ifir/gear.git",
+  "version": "1.0.0",
+  "author": "You Name",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "commander": "^2.20.0",
+    "download-git-repo": "^1.1.0",
+    "execa": "^1.0.0",
+    "fs-extra": "^7.0.1",
+    "inquirer": "^6.2.2"
+  }
+}

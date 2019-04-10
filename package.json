@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "workspaces":[
+    "packages/@gear/*"
+  ],
+  "name": "gear",
+  "version": "1.0.0",
+  "description": "react cli",
+  "repository": "git@github.com:ifir/gear.git",
+  "author": "FIR",
+  "license": "MIT"
+}
